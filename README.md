@@ -8,7 +8,7 @@ Data Science Portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](/images/positions_by_state.png)
+![](https://github.com/pcgeek404/OC_Portfolio/blob/main/Images/Projcet%201%20github.png)
 
 
 # [Project 2: Ball Image Classifier](https://github.com/pcgeek404/OC_Portfolio)
@@ -16,3 +16,4 @@ For this example project I built a ball classifier to identify balls from differ
 
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
+[](https://github.com/pcgeek404/OC_Portfolio/blob/main/Images/Project%202%20github.png)
