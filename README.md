@@ -19,4 +19,4 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 ![](https://github.com/pcgeek404/OC_Portfolio/blob/main/Images/Project%202%20github.png)
 
 
-Project 3:Degree Workers Vs Non Degree Workers 
+[Project 3:Degree Workers Vs Non Degree Workers] 
